@@ -9,3 +9,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ### samples
 ![image](https://user-images.githubusercontent.com/26257865/231463649-1607762e-e479-4abb-aa95-497d961a0090.png)
 
+#### After click over any Title title on Top will be replaced!
+![image](https://user-images.githubusercontent.com/26257865/231464004-ec0b134a-e1e2-40c1-8b98-36f7df9ab8f9.png)
